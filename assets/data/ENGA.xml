@@ -6006,7 +6006,7 @@
                   <rdg type="unique" wit="#Plut3">enarrat beneficia lovi</rdg>
                </app>
                <app>
-                  <lem wit="#A #π #ς #φ #ρ"><ref type="source" target="#FGrHist">nec Atheniensibus
+                  <lem wit="#A #π #ς #φ #ρ"><ref type="source" target="#FGrH">nec Atheniensibus
                         Lacedaemonii</ref></lem>
                   <rdg type="draft" wit="#O">neque Lacaedemonii memorant Atheniensibus ea</rdg>
                </app> quae contulerunt in <app>
@@ -9971,7 +9971,7 @@
                <head>Passi Paralleli</head>
                <bibl xml:id="Achar">
                   <author>Aristophanes</author>
-                  <title>Acarnanes</title>
+                  <title>Acharnenses</title>
                   <biblScope unit="line">738</biblScope>
                </bibl>
                <bibl xml:id="Pax">
@@ -9991,7 +9991,7 @@
                   <biblScope>1391 a 8-14, 1405 b 23-28</biblScope>
                </bibl>
                <bibl xml:id="Deipn">
-                  <author>Ateneus</author>
+                  <author>Athenaeus</author>
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
                </bibl>
@@ -10006,18 +10006,18 @@
                   <biblScope>XVII, 420</biblScope>
                </bibl>
                <bibl xml:id="Ecl">
-                  <author>Stobeus</author>
+                  <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
                   <biblScope>IV, 10, 38, 61</biblScope>
                </bibl>
-               <bibl xml:id="FGrHist">
+               <bibl xml:id="FGrH">
                   <author>F. Jacoby</author>
-                  <title>Die Fragmente der griechischen Historiker</title>
-                  <biblScope>FGrHist, II, B, frr. 15-17</biblScope>
+                  <title>Fragmente der griechischen Historiker</title>
+                  <biblScope>FGrH, II, B, frr. 15-17</biblScope>
                </bibl>
                <bibl xml:id="Char">
                   <author>Theophrastus</author>
-                  <title>Character</title>
+                  <title>Characteres</title>
                   <biblScope>Char. X, 13</biblScope>
                </bibl>
             </listBibl>
