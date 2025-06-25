@@ -485,6 +485,12 @@
                                  <idno>IGI 821; IISTC ia00981000</idno>
                               </altIdentifier>
                            </msIdentifier>
+                           <msContents>
+                              <msItem>
+                                 <locus>e.iiii (pp. non numerate)</locus>
+                                 <title>Aristotelis Ethicae ad Nicomachum filium Liber IV</title>
+                              </msItem>
+                           </msContents>
                         </msDesc>
                      </witness>
                      <witness xml:id="t">Aristotele, <title rend="italic">Etica Nicomachea</title>,
@@ -500,7 +506,7 @@
                            </msIdentifier>
                            <msContents>
                               <msItem>
-                                 <locus>e.iiii</locus>
+                                 <locus>e.iiii (pp. non numerate)</locus>
                                  <title>Aristotelis Ethicae ad Nicomachum filium Liber IV</title>
                               </msItem>
                            </msContents>
@@ -557,7 +563,7 @@
                            </msIdentifier>
                            <msContents>
                               <msItem>
-                                 <locus>pp. e.ii-g.i</locus>
+                                 <locus>e.ii-g.i (pp. non numerate)</locus>
                                  <title>Aristotelis Ethicae ad Nicomachum filium Liber IV</title>
                               </msItem>
                            </msContents>

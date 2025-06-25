@@ -27,18 +27,166 @@
                   >http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1094a</ref>
             </bibl>
             <listWit>
-               <witness xml:id="Nb">Venezia, BNM, Graeci class. IV cod. 53, ff. 97r-100v</witness>
-               <witness xml:id="P2">Paris, BnF, Coisl. 161, ff. 56r-64r</witness>
-               <witness xml:id="Pb">Città del Vaticano, BAV, Vat. Gr. 1342, ff. 48r-55r</witness>
-               <witness xml:id="Kb">Firenze, BML, Plut. 81.11, ff. 39r-52r</witness>
-               <witness xml:id="Ob">Firenze, BR, Ricc. 46, ff. 25v-33r</witness>
-               <witness xml:id="Lb">Paris, BnF, Graec. 1854, ff. 49v-69v</witness>
-               <witness xml:id="Mb">Venezia, BNM, Graeci Fondo Antico, ms. 213</witness>
-               <witness xml:id="Ga">Venezia, BNM, Graeci Fondo Antico, ms. 212, ff. 24v-34r</witness>
-               <witness xml:id="F">Firenze, BML, Plut. 81.18, ff. 19r-33v</witness>
-               <witness xml:id="Utin">Udine, Biblioteca Arcivescovile, VI.2 coll. 255, ff. 27v-37r</witness>
+               <witness xml:id="Nb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci class. IV</collection>
+                        <msName>cod. 53</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 97r-100v</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="P2">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Paris</settlement>
+                        <repository>BnF</repository>
+                        <collection>Coisl.</collection>
+                        <msName>161</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 56r-64r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Pb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Città del Vaticano</settlement>
+                        <repository>BAV</repository>
+                        <collection>Vat. Gr.</collection>
+                        <msName>1342</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 48r-55r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Kb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BML</repository>
+                        <collection>Laur. Plut.</collection>
+                        <msName>81.11</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 39r-52r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Ob">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BR</repository>
+                        <collection>Ricc.</collection>
+                        <msName>46</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 25v-33r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Lb"><msDesc>
+                  <msIdentifier>
+                     <settlement>Paris</settlement>
+                     <repository>BnF</repository>
+                     <collection>Graec.</collection>
+                     <msName>1854</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 49v-69v</locus>
+                        <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                     </msItem>
+                  </msContents>
+               </msDesc></witness>
+               <witness xml:id="Mb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci Fondo Antico</collection>
+                        <msName>213</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus/>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Ga">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci Fondo Antico</collection>
+                        <msName>212</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 24v-34r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="F">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BML</repository>
+                        <collection>Laur. Plut.</collection>
+                        <msName>81.18</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 19r-33v</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Utin">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Udine</settlement>
+                        <repository>Biblioteca Arcivescovile</repository>
+                        <collection>VI.2</collection>
+                        <msName>coll. 255</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 27v-37r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
             </listWit>
-            <list><head>Editori citati</head>
+            <list><head>Viri docti</head>
                <item xml:id="Bywater">Bywater</item>
                <item xml:id="Coraes">Coraes</item>
                <item xml:id="Imelmann">Imelmann</item>
