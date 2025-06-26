@@ -2081,14 +2081,14 @@
                </app> vero <app>
                   <lem wit="#π #ς #φ #ρ">conservatioque</lem>
                   <rdg type="draft" wit="#O" exclude="#C">conservatioque</rdg>
-                  <rdg type="draft" wit="#A" exclude="#Ch2 #Ox2">pecunias conservareque</rdg>
+                  <rdg type="draft" wit="#A" exclude="#Ch2 #Ox2 #Vall">pecunias conservareque</rdg><note resp="#AG">in lac. Vall</note>
                   <rdg type="unique" wit="#C">consumatioque</rdg>
                   <rdg type="joining" wit="#Ch2 #Ox2">pecunias conservare</rdg>
                </app>
                <app>
                   <lem wit="#π #ς #φ #ρ">possessio potius esse videtur</lem>
                   <!-- PROBL VISUALIZZ LACUNA (Vall)-->
-                  <rdg type="draft" wit="#O #A" exclude="Ric16">ad earum magis videtur pertinere
+                  <rdg type="draft" wit="#O #A" exclude="Ric16 #Vall">ad earum magis videtur pertinere
                      possessionem</rdg>
                   <rdg type="unique" wit="#Ric16">ad earum videtur magis pertinere
                      possessionem</rdg>
@@ -5017,7 +5017,7 @@
                   <rdg type="unique" cause="om" wit="#Plut3"/>
                </app> in magnitudine, <app>
                   <lem wit="#π #ς #φ #ρ">sicut et</lem>
-                  <rdg type="draft" wit="#O #A">plane et perinte atque</rdg>
+                  <rdg type="draft" wit="#O #A">plane et perinde atque</rdg>
                </app>
                <app>
                   <lem wit="#φ">magno in corpore pulchritudo</lem>
@@ -9995,16 +9995,6 @@
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
                </bibl>
-               <bibl xml:id="Il">
-                  <author>Homerus</author>
-                  <title>Ilias</title>
-                  <biblScope>I, 394-407; 503-504</biblScope>
-               </bibl>
-               <bibl xml:id="Od">
-                  <author>Homerus</author>
-                  <title>Odyssea</title>
-                  <biblScope>XVII, 420</biblScope>
-               </bibl>
                <bibl xml:id="Ecl">
                   <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
@@ -10019,6 +10009,19 @@
                   <author>Theophrastus</author>
                   <title>Characteres</title>
                   <biblScope>Char. X, 13</biblScope>
+               </bibl>
+            </listBibl>
+            <listBibl>
+               <head>Fonti</head>
+               <bibl xml:id="Il">
+                  <author>Homerus</author>
+                  <title>Ilias</title>
+                  <biblScope>I, 394-407; 503-504</biblScope>
+               </bibl>
+               <bibl xml:id="Od">
+                  <author>Homerus</author>
+                  <title>Odyssea</title>
+                  <biblScope>XVII, 420</biblScope>
                </bibl>
             </listBibl>
          </p>
