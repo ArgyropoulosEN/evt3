@@ -8834,7 +8834,7 @@
                   <note resp="#AG">Ritengo che la lezione di Ric15 si sia originata a partire da "in
                      dicendo" con successiva omissione della preposizione.</note>
                </app> inter tales <app>
-                  <lem wit="#π #ς #φ #ρ #Ric16">et</lem>
+                  <lem wit="#π #ς #φ #ρ #Ric16">et</lem><note resp="#AG">La lezione "et" in Ric16 si è verosimilmente originata per pressione contestuale ("et dicendo inter tales")</note>
                   <rdg type="draft" wit="#O #A" exclude="#Ric16 #Ric23 #Par1">aut</rdg>
                   <rdg type="unique" wit="#Ric23" cause="om"/>
                   <rdg type="unique" wit="#Par1">ut</rdg>
@@ -8901,7 +8901,7 @@
                   <rdg type="draft" wit="#O #A #π">honesta</rdg>
                </app> loqui et non afficere <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ric16 #Vrat">eum</lem>
-                  <rdg type="unique" wit="#Ric16">cum</rdg>
+                  <rdg type="unique" wit="#Ric16">cum</rdg><!-- oppure type= polygenetic?? -->
                   <rdg type="unique" wit="#Vrat">cum</rdg>
                </app> dolore <app>
                   <lem wit="#A #π #ς #φ #ρ">in quem</lem>
@@ -8960,9 +8960,9 @@
                   <rdg type="unique" wit="#Ric16" cause="om"/>
                </app>
                <app>
-                  <lem wit="#O #A #π #ς #φ" exclude="#Ric16">durique esse videntur.</lem>
+                  <lem wit="#O #A #π #ς #φ" exclude="#Ch1 #Ric16">durique esse videntur.</lem>
                   <rdg type="draft" wit="#ρ">sunt et duri</rdg>
-                  <rdg type="unique" wit="#Ric16">duri esse videntur</rdg>
+                  <rdg type="unique" wit="#Ric16">duri esse videntur</rdg> <!-- oppure type= polygenetic?? -->
                   <rdg type="unique" wit="#Ch1">duri esse videntur</rdg>
                </app></p>
             <p corresp="#ENGR_p_IV-IV-3-3" xml:id="ENGA_p_IV-IV-3-3">At <app>
@@ -8976,12 +8976,12 @@
                   <lem wit="#A #π #ς #φ #ρ" exclude="#Holk #Mon">atque urbanus</lem>
                   <rdg type="draft" wit="#O"/>
                   <rdg type="unique" wit="#Holk">atque verbanus</rdg>
-                  <rdg type="unique" wit="#Mon" cause="transposition"/>
+                  <rdg type="unique" wit="#Mon" cause="transposition"/><note resp="#AG">"atque urbanus" post "moris" legitur Mon</note>
                </app>
                <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ch2 #Mon #Ox2">vocatur,</lem>
-                  <rdg type="unique" wit="#Mon" cause="transposition"/>
-                  <rdg type="joining" wit="#Ch2 #Ox2" cause="transposition"/>
+                  <rdg type="unique" wit="#Mon" cause="transposition"/><note resp="#AG">"vocatur" post "moris atque urbanus" legitur Mon</note>
+                  <rdg type="joining" wit="#Ch2 #Ox2" cause="transposition"/><note resp="#AG">"vocatur" post "moris" leguntur Ch2 Ox2</note>
                </app>
                <app>
                   <lem wit="#g #φ #ρ">talem sane moris iam habitum assecutus ut ad bene recteque
@@ -9011,7 +9011,7 @@
                   <rdg type="joining" wit="#ς #ρ">huiusce modi namque motiones mores ipsius esse
                      videntur atque uti corpora sic et ipsi mores motionibus discernuntur</rdg>
                   <rdg type="unique" wit="#E">nam huiusce modi motiones moris ipsius esse videntur
-                     atque uti corpora sit et et ipsi mores motionibus discernuntur</rdg>
+                     atque uti corpora sit et ipsi mores motionibus discernuntur</rdg>
                </app>Cum autem <app>
                   <lem wit="#π #ς #φ #ρ" exclude="#D">exundet ipsum</lem>
                   <rdg type="draft" wit="#O #A" exclude="#Ott">in hominibus abundet</rdg>
