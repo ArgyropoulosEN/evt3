@@ -9631,13 +9631,13 @@
                   <rdg type="joining" wit="#Plut84 #Plut89">eos quidem</rdg>
                </app>
                <app>
-                  <lem wit="#φ">adoloscentes</lem>
+                  <lem wit="#φ">adolescentes</lem>
                   <rdg type="draft" wit="#O #A #π #ς">iuvenum</rdg>
                   <rdg type="draft" wit="#ρ">iuvenes</rdg>
                </app>
                <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Plut84 #Plut89">eos</lem>
-                  <rdg type="joining" wit="#Plut84 #Plut89" cause="transposition"/>
+                  <rdg type="joining" wit="#Plut84 #Plut89" cause="transposition"/><note resp="#AG">"eos" ante "quidem" leguntur Plut84 Plut89</note>
                </app> qui sunt verecundi, sed <app>
                   <lem wit="#φ">ex eo nemo</lem>
                   <rdg type="draft"
