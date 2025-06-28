@@ -3974,7 +3974,7 @@
                </app>, <app>
                   <lem wit="#π #ς #φ #ρ" exclude="#g">sumptus</lem>
                   <rdg type="draft" wit="#O #A">sumptus oportet</rdg>
-                  <rdg type="unique" wit="#g" cause="transposition"/>
+                  <rdg type="unique" wit="#g" cause="transposition"/><note resp="#AG">"sumptus" ante "vel" ("aut" φ) legitur g</note>
                </app>.</p>
             <p corresp="#ENGR_p_IV-I-2-5" xml:id="ENGA_p_IV-I-2-5">Atqui magnificus <app>
                   <lem wit="#π #ς #φ #ρ">honestatis</lem>
@@ -4108,7 +4108,7 @@
                   <lem wit="#φ">id quod magnum est atque</lem>
                   <rdg type="draft" wit="#O #A">ut sit magnum et</rdg>
                   <rdg type="draft" wit="#π #ς #ρ">quod magnum est atque</rdg>
-               </app> pulchrum <app>
+               </app> pulchrum - <app>
                   <lem wit="#π #ς #φ #ρ">talis</lem>
                   <rdg type="draft" wit="#O #A">huiuscemodi</rdg>
                </app>
@@ -4122,7 +4122,7 @@
                </app> est <app>
                   <lem wit="#π #ς #φ #ρ">magnificum</lem>
                   <rdg type="draft" wit="#O #A">magnificum id</rdg>
-               </app> est admirabile <app>
+               </app> est admirabile - <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#v">atque</lem>
                   <rdg type="unique" wit="#v" cause="om"/>
                </app> virtus operis est <app>
@@ -4156,7 +4156,7 @@
                   <lem wit=" #φ">eae</lem>
                   <rdg type="draft" wit="#O #A #π #ς #ρ">ea</rdg>
                </app> quae <app>
-                  <lem wit="#π #ς #φ #ρ">deorum heroumque causa fiunt ̶ dedicationes, inquam</lem>
+                  <lem wit="#π #ς #φ #ρ">deorum heroumque causa fiunt  ̶  dedicationes, inquam</lem>
                   <rdg type="draft" wit="#O #A">diis immortalibus dedicantur</rdg>
                </app>, <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Plut84 #Plut89 #Vall">et extructiones</lem>
@@ -4174,8 +4174,8 @@
                      spectant</rdg>
                   <rdg type="draft" wit="#A">sacrificia et etiam ea quae ad heroas sanctave
                      accommodantur</rdg>
-                  <rdg type="unique" wit="#g">sacrificia et circa omne divinum</rdg>
-               </app> ̶ et <app>
+                  <rdg type="unique" wit="#g">sacrificia et circa omne divinum</rdg><note resp="#AG">Modifica effettuata probabilmente da Jacques Lefèvre</note>
+               </app>  ̶  et <app>
                   <lem wit=" #φ">eae</lem>
                   <rdg type="draft" wit="#O #A #π #ς #ρ">ea</rdg>
                </app> quae <app>
@@ -4241,7 +4241,7 @@
                   <lem wit="#O #A #φ">uti</lem>
                   <rdg type="draft" cert="unknown" wit="#π #ς #ρ">ut</rdg>
                </app> diximus<note xml:id="n5" place="above" resp="#AG">Cf. Arist. EN IV, 1122a, ll.
-                  26-27.</note> ̶ et ad <app>
+                  26-27.</note>  ̶  et ad <app>
                   <lem wit="#φ">agentem ipsum</lem>
                   <rdg type="draft" wit="#O #A #S #ς #ρ" exclude="#Ox2 #Par2">agentem</rdg>
                   <rdg type="polygenetic" wit="#Ox2 #Par2">gentem</rdg>
@@ -4535,7 +4535,7 @@
                      >Ad</lem>
                   <rdg type="polygenetic"
                      wit="#Ch1 #Ch2 #Ott #Vat #Plut89 #Ric23 #Holk #Mon #Ox2 #Vall #Vrat">at</rdg>
-                  <rdg type="unique" wit="#Plut3">At ad</rdg>
+                  <rdg type="unique" wit="#Plut3">at ad</rdg>
                </app> magnificum etiam pertinet et <app>
                   <lem wit="#π #f #φ #ρ">domum a se exstructam ut divitias decet habere</lem>
                   <rdg type="draft" wit="#O #A" exclude="#Ch2 #Ott #Ric15">decentes exstruere atque
@@ -4550,7 +4550,7 @@
                      divitiis aedes</rdg>
                   <rdg type="joining" wit="#t #m #p #g">domum a se exstructam ut divitias decenter
                      habere</rdg>
-               </app> ̶ <app>
+               </app>  ̶  <app>
                   <lem wit="#π #ς #φ #ρ">est</lem>
                   <rdg type="draft" wit="#O #A">sunt</rdg>
                </app> enim <app>
@@ -4562,7 +4562,7 @@
                <app>
                   <lem wit="#π #ς #φ #ρ">ornamentum</lem>
                   <rdg type="draft" wit="#O #A">ornamentum quoddam ut patet</rdg>
-               </app> ̶ et item <app>
+               </app>  ̶  et item <app>
                   <lem wit="#π #ς #φ #ρ" exclude="#v">in iis</lem>
                   <rdg type="draft" cert="unknown" wit="#O #A" exclude="#Plut84 #Plut89">in
                      hisce</rdg>
@@ -4575,14 +4575,14 @@
                </app> operibus sumptus facere quae <app>
                   <lem wit="#π #ς #φ #ρ">diuturno tempore persistere</lem>
                   <rdg type="draft" wit="#O #A">diu persistere permanereque</rdg>
-               </app> possunt ̶ <app>
+               </app> possunt  ̶  <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ch2">haec</lem>
                   <rdg type="unique" wit="#Ch2">nec</rdg>
                </app> enim sunt <app>
                   <lem wit="#π #ς #φ #ρ">maxime pulchra</lem>
                   <rdg type="draft" wit="#O #A" exclude="#Vrat">pulchra maximeque praeclara</rdg>
                   <rdg type="unique" wit="#Vrat">pidcra maximeque praeclara</rdg>
-               </app> ̶ <app>
+               </app>  ̶  <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Urb2">atque</lem>
                   <rdg type="unique" wit="#Urb2">at</rdg>
                </app> in singulis <app>
@@ -4684,7 +4684,7 @@
                   <rdg type="draft" wit="#A" exclude="#Ch2">namque opus neque</rdg>
                   <rdg type="draft" wit="#π #ς #ρ">namque neque</rdg>
                   <rdg type="unique" wit="#Ch2">opus neque</rdg>
-               </app> facile superari potest ̶ et sese habet <app>
+               </app> facile superari potest  ̶  et sese habet <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ric23">ut</lem>
                   <rdg type="unique" wit="#Ric23" cause="om"/>
                </app> sumptus dignitas postulat.</p>
