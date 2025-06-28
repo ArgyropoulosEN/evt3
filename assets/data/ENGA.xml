@@ -3310,7 +3310,7 @@
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ric23">et enim et</lem>
                   <rdg type="unique" wit="#Ric23">et enim est</rdg>
                </app> senectus et imbecillitas omnis avaros <app>
-                  <lem wit="#π #ς #φ">videtur efficere</lem>
+                  <lem wit="#O #A #π #ς #φ">videtur efficere</lem>
                   <rdg type="draft" wit="#ρ">efficit</rdg>
                </app> - estque hominibus insita magis quam prodigalitas. <app>
                   <lem wit="#π #ς #φ #ρ">Plerique</lem>
@@ -3327,7 +3327,7 @@
                </app>
                <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Plut3">sunt magis</lem>
-                  <rdg type="unique" wit="#Plut3" cause="transposition"/>
+                  <rdg type="unique" wit="#Plut3" cause="transposition"/><note resp="#AG">"sunt magis" ante "cupidi" legitur Plut3</note>
                </app> pecuniarum quam ad dandum proclives. <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ch2">Extenditur</lem>
                   <rdg type="unique" wit="#Ch2">extendatur</rdg>
@@ -3398,7 +3398,7 @@
                      quidam</lem>
                   <rdg type="draft" wit="#O">Aliena tamen non cupiunt neque volunt accipere,
                      partim</rdg>
-                  <rdg type="joining" wit="#A" cause="transposition"/>
+                  <rdg type="joining" wit="#A" cause="transposition"/><note resp="#AG">"aliena tamen non cupiunt neque volunt accipere" post "ob metum" legitur A</note>
                </app> propter <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Plut3 #Par2">modestiam</lem>
                   <rdg type="polygenetic" wit="#Plut3 #Par2">molestiam</rdg>
