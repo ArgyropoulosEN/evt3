@@ -3694,7 +3694,7 @@
                </app> enim et ipsa virtus quaedam circa pecunias <app>
                   <lem wit="#O #A #π #ς #φ" exclude="#Ric23">esse</lem>
                   <rdg type="draft" wit="#ρ"/>
-                  <rdg type="unique" wit="#Ric23" cause="transposition"/>
+                  <rdg type="unique" wit="#Ric23" cause="transposition"/><note resp="#AG">"esse" post "videtur" legitur RIc23</note>
                </app>. Non tamen sese extendit ut liberalitas ad <app>
                   <lem wit="#O #A #π #ς #φ">omnes</lem>
                   <rdg type="draft" wit="#ρ">omnis</rdg>
