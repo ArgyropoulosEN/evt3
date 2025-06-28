@@ -5099,8 +5099,7 @@
                <app>
                   <lem wit="#φ">Et potissimum is videbitur</lem>
                   <rdg type="draft" wit="#O #A" exclude="#Ch2 #Ott #Urb1 #Ric23 #Mon" >Atque maxime is
-                     parvi animi videbitur esse</rdg><note resp="#AG">in lac. Ott</note>
-                 
+                     parvi animi videbitur esse</rdg><note resp="#AG">in lac. Ott</note>                 
                   <rdg type="draft" wit="#π #ς #ρ">et maxime videbitur is</rdg>
                   <rdg type="unique" wit="#Ch2"> atque maxime si parvi animi videbitur esse</rdg>
                   <rdg type="joining" wit="#Urb1 #Ric23">atque maxime is parvi animi videtur
@@ -5127,6 +5126,7 @@
                   <rdg type="unique" wit="#Urb2">tanti</rdg>
                </app> non <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ric15">esset</lem>
+                  <rdg type="unique" wit="#Ric15" hand="scribe1">esse</rdg>
                   <rdg type="corr" wit="#Ric15" hand="scribeX">esse<add>t</add></rdg>
                </app> dignus?</p>
             <p corresp="#ENGR_p_IV-II-1-6" xml:id="ENGA_p_IV-II-1-6">Est igitur ipse magnanimus
@@ -5501,7 +5501,7 @@
                   <lem wit="#φ">propterea quod</lem>
                   <rdg type="draft" wit="#O">quoniam</rdg>
                   <rdg type="draft" wit="#A #π #ς #ρ" exclude="#Vall">quia</rdg>
-                  <rdg type="unique" wit="#Vall">quoniam</rdg>
+                  <rdg type="unique" wit="#Vall">quoniam</rdg><note resp="#AG">Seppur con qualche incertezza, data la facilità di scambio tra "quia" e "quoniam", ho preferito considerare la variante come lezione singolare e non come traccia di una redazione precedente</note>
                </app>
                <app>
                   <lem wit="#φ">illi maiora ipsi nequeunt exhibere</lem>
@@ -5575,7 +5575,7 @@
                   <rdg type="draft" wit="#π">non</rdg>
                   <rdg type="unique" wit="#Plut84">haec</rdg>
                   <rdg type="corr" wit="#Plut89" hand="scribe1"><subst>
-                        <del>heac</del>
+                        <del>haec</del>
                         <add>nec</add>
                      </subst></rdg>
                </app> enim <app>
@@ -5811,10 +5811,11 @@
                </app>, idque faciunt in quibus possunt. Ea igitur quae a virtute proficiscuntur non
                agunt, despiciunt autem ceteros. Sed <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#E">magnanimus</lem>
+                  <rdg type="unique" wit="#E" hand="scribe1">magnimus</rdg>
                   <rdg type="corr" wit="#E" hand="scribe2">mag<add place="above">na</add>nimus</rdg>
                </app> iure <app>
-                  <lem wit="#A #π #ς #φ #ρ">despicit ̶ opinatur enim</lem>
-                  <rdg type="draft" wit="#O">ceteros despicit ̶ iudicat enim ac opinatur</rdg>
+                  <lem wit="#A #π #ς #φ #ρ">despicit  ̶  opinatur enim</lem>
+                  <rdg type="draft" wit="#O">ceteros despicit  ̶  iudicat enim ac opinatur</rdg>
                </app> vere ̶ , vulgus autem <app>
                   <lem wit="#φ">forte fortuna</lem>
                   <rdg type="draft" wit="#O #A #π #ς #ρ">ut contingit</rdg>
@@ -6025,7 +6026,8 @@
                <app>
                   <lem wit="#O #A #S #ς #φ #ρ" exclude="#Mon">aut</lem>
                   <rdg type="unique" wit="#Mon" cause="om"/>
-                  <rdg type="corr" wit="#Ox1" hand="scribeX">vel <add place="margin">aut</add></rdg>
+                  <rdg type="adiaphora" wit="#Ox1">vel</rdg>
+                  <rdg type="corr" wit="#Ox1" hand="scribeX"><add place="margin">aut</add></rdg>
                </app> vix <app>
                   <lem wit="#A #π #ς #φ #ρ">indigere, subministrare autem prompte et</lem>
                   <rdg type="draft" wit="#O">indigere ceteris autem subministrare ac obsequi prompte
@@ -6150,6 +6152,7 @@
                   <rdg type="unique" wit="#Mon">etiam ipsum palam</rdg>
                </app> tam <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Holk">odisse</lem>
+                  <rdg type="unique" wit="#Holk" hand="scribe1" cause="om"/>
                   <rdg type="corr" wit="#Holk" hand="scribeX"><add place="margin">odisse</add></rdg>
                </app> quam etiam amare, quippe cum <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ric23">metuentis</lem>
@@ -6238,7 +6241,7 @@
                      illati</lem>
                   <rdg type="draft" wit="#O">odii tenax ac irae</rdg>
                   <rdg type="polygenetic" wit="#Ch1 #Ott #Vrat">sibi mali memor illati
-                     meminisse</rdg>
+                     meminisse</rdg><note resp="#AG">L'errore sembra essersi generato da un fraintendimento di una correzione d'autore</note>
                   <rdg type="unique" wit="#Ric23">sibi memor illati</rdg>
                </app>: non est <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ch2">enim</lem>
@@ -6380,10 +6383,12 @@
                </app> vocis <app>
                   <lem wit="#π #ς #φ #ρ">et celeritatis</lem>
                   <rdg type="draft" wit="#O">et volubilitas linguae et item incessus celeritas</rdg>
-                  <rdg type="draft" wit="#A" exclude="#Plut3">et volubilitas linguae et incessus
+                  <rdg type="draft" wit="#A" exclude="#Ott #Plut3 #Vall #Vrat">et volubilitas linguae et incessus
                      celeritas</rdg>
+                  <rdg type="polygenetic" wit="#Ott #Vall">et volubilitas lingae et incessus celeritas</rdg>
                   <rdg type="unique" wit="#Plut3">et et volubilitas linguae et incessus
                      celeritas</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vrat">et volubilitas ligue et incessus celeritas</rdg>
                </app>
                <app>
                   <lem wit="#ς #φ #ρ">propter haec ipsa fieri solent.</lem>
@@ -6549,7 +6554,7 @@
                </app> quasi sint <app>
                   <lem wit="#O #A #π #ς #φ #ρ" exclude="#Ott #Urb2">indigni</lem>
                   <rdg type="polygenetic" wit="#Ott #Urb2">digni</rdg>
-                  <rdg type="corr" wit="#Urb2" hand="scribeX"><add place="margin">non</add></rdg>
+                  <rdg type="corr" wit="#Urb2" hand="scribeX"><add place="margin">non</add> digni</rdg>
                </app>, et a <app>
                   <lem wit="#A #π #ς #φ #ρ" exclude="#Ch1">bonis externis</lem>
                   <rdg type="draft" wit="#O">rebus item externis</rdg>
