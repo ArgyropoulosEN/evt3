@@ -1876,8 +1876,8 @@
                      anche alle varianti riscontrabili in più testimoni appartenenti a stesure
                      differenti</note>;</item>
                <item><hi rend="italic">corr</hi>: le correzioni scribali<note resp="#AG">Le mani
-                     sono indicate attraverso l’attributo @hand ("scribe1", "scribe2" etc., se
-                     incerte "scribeX")</note>;</item>
+                  sono indicate attraverso l’attributo @hand con associato un ID costituito dal siglum del manoscritto e un elemento numerico ("m1", "m2" etc., se
+                  incerte "mX")</note>;</item>
                <item><hi rend="italic">polygenetic</hi>: gli errori non significativi, condivisi
                   accidentalmente da più testimoni;</item>
                <item><hi rend="italic">adiaphora</hi>: le varianti adiafore comuni a più
